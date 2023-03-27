@@ -1,0 +1,17 @@
+.background-header {
+    width: 100%;
+    background-color: hsl(0, 0%, 0%);
+    height: 50px;
+}
+
+.item-menu {
+    text-decoration: none;
+    color: white;
+    padding: 5px 30px;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.item-menu:hover {
+    color: red;
+}

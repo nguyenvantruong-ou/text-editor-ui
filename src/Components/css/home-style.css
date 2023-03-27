@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+    .fontds {
+        font-family: 'Dancing Script';
+   }
+
+.title-h1 {
+    font-family: 'Dancing Script';
+    text-align: center;
+    font-size: 52px;
+}
+
+.main-text-editor {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+
+.main-text-editor > textarea {
+    width: 100%;
+    height: auto;
+    min-height: 400px;
+    padding: 20px;
+    font-size: 17px;
+}
