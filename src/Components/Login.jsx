@@ -25,6 +25,7 @@ function LoginForm() {
   const handleSubmit = (event) => {
     event.preventDefault();
     // Do something with the username and password, e.g. send them to a server to be authenticated
+    // Do something with the username and password, e.g. send them to a server to be authenticated
   };
 
   return (<>
